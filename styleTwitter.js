@@ -1,3 +1,6 @@
+
+/* MIT License, see License.txt */
+
 					function styleTwitterWidget() {
 						var checkTwitter = 0;
 						var ifrm_elem = 0;
