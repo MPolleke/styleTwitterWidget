@@ -9,3 +9,4 @@ With the new widget, which uses the new API that doesn’t work anymore. It is s
 
 You can however add a stylesheet to an iframe, and that’s what I did. It’s available as download. All you have to do is change the location of the stylesheet in it. You can then add it to your page-layout. It does use and need jQuery.
 
+In case you are editing the stylesheet, but it doesn't refresh in the browser, you can open the stylesheet directly in the browser, and push F5 to have the cache of your browser refreshed.
